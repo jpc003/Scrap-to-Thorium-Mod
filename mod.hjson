@@ -1,0 +1,6 @@
+name: "scrap-to-thorium"
+displayName: "[orange]Scrap to [pink]Thorium"
+author: "[green]JustGekto"
+description: "Simple mod that adds way yo get thorium from scrap"
+version: "1.0"
+minGameVersion: "103"

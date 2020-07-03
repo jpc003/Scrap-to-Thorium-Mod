@@ -1,0 +1,30 @@
+type: Separator
+name: Advanced separator
+description: BRUH
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.7
+  liquid: {
+    liquid: molten-clear-scrap
+    amount: 0.01
+  }
+}
+requirements: [
+  lead/50
+  copper/150
+  titanium/40
+  silicon/60
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+results: [
+    sand/4
+    thorium/2
+    titanium/1
+]
