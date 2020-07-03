@@ -21,5 +21,6 @@ requirements: [
   silicon/20
 ]
 category: crafting
+research:separator
 idleSound: respawning
 idleSoundVolume: 0.5

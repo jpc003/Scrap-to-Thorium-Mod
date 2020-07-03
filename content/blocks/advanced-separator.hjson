@@ -23,6 +23,7 @@ requirements: [
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
+research:separator
 results: [
     sand/4
     thorium/2
