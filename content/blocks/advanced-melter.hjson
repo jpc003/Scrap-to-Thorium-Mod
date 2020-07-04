@@ -18,7 +18,7 @@ consumes: {
 requirements: [
   lead/50
   copper/80
-  silicon/20
+  graphite/90
 ]
 category: crafting
 research:separator

@@ -18,7 +18,6 @@ requirements: [
   lead/50
   copper/150
   titanium/40
-  silicon/60
 ]
 category: crafting
 idleSound: respawning
