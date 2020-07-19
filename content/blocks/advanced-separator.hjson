@@ -1,6 +1,6 @@
 type: Separator
 name: Advanced separator
-description: BRUH
+description: "Separates cleared scrap into it's materials."
 size: 2
 hasPower: true
 hasLiquids: true

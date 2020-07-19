@@ -1,6 +1,6 @@
 type: resource
 name: Cleared Scrap
-description: Regural scrap without mos of junk
+description: "Regular scrap without most of junk."	
 hardness: 2
 cost: 2
-color: ffffff
+color: 877d76

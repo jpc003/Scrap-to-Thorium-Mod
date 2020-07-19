@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "Advanced melter"
-description: "BRUH."
+description: "Melts metals which are too hard for regular melter."
 liquidCapacity: 50
 outputLiquid: {
   liquid: molten-clear-scrap
